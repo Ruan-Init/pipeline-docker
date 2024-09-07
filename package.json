@@ -1,0 +1,23 @@
+{
+  "name": "pipeline-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruan-Init/pipeline-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruan-Init/pipeline-docker/issues"
+  },
+  "homepage": "https://github.com/Ruan-Init/pipeline-docker#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
